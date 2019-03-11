@@ -52,7 +52,7 @@ When contributing to this repository, please first discuss the change you wish t
 
 ## Authors
 
-* **Ahmed Maher** 
+* **Ahmed Tohami**  ahmedtohami2013@gmail.com
 
 
 
