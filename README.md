@@ -2,10 +2,10 @@
 application on how to use test driven strategy and perform test suites in project
 
 ## testing suites included
-RSS Feeds
-The menu
-Initial Entries
-New Feed Selection
+1.RSS Feeds
+2.The menu
+3.Initial Entries
+4.New Feed Selection
 
 #Suites included
 
