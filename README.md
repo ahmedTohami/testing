@@ -7,7 +7,7 @@ application on how to use test driven strategy and perform test suites in projec
 
 These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
 
-### Built With
+### External libraries
 
 ```
 [icomoon](https://icomoon.io/)
