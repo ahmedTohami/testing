@@ -1,13 +1,33 @@
-# Project Overview
+
+ # Feed Reader Testing
+
 application on how to use test driven strategy and perform test suites in project
 
-## testing suites included
-1. RSS Feeds
-2. The menu
-3. Initial Entries
-4. New Feed Selection
+## Getting Started
 
-#Suites included
+These instructions will get you a copy of the project up and running on your local machine for development and testing purposes.
+
+### Built With
+
+```
+[icomoon](https://icomoon.io/)
+```
+```
+[jquery](https://jqueryui.com/download/)
+```
+```
+[jasmine 3.3.0](https://jasmine.github.io/pages/docs_home.html)
+```
+
+
+### Installing
+
+```
+download project from github repository,and unzip it open index.html on project root directory ,to see tests results.
+```
+
+
+# Suites included
 
 1. tests in RSS Feeds 
     1. are defined
@@ -21,6 +41,26 @@ application on how to use test driven strategy and perform test suites in projec
 4. tests in new Feed Selection
     1. feeds changes
 
-#setup 
-download project from github repository,and unzip it; 
+## Versioning
+this will be version 1.0.0.1 with a minor change in asynchronous test	
+	
+## Contributing
+
+When contributing to this repository, please first discuss the change you wish to make via issue, email, or any other method with the owners of this repository before making a change.
+
+
+
+## Authors
+
+* **Ahmed Maher** 
+
+
+
+## License
+
+This project is licensed under the MIT License - 
+
+## Acknowledgments
+
+* udacity nanodegree program instructors
 
