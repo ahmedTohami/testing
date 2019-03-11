@@ -42,7 +42,7 @@ download project from github repository,and unzip it open index.html on project 
     1. feeds changes
 
 ## Versioning
-this will be version 1.0.0.1 with a minor change in asynchronous test	
+this will be version 1.0.0.1 with a minor change in asynchronous test "feeds changes" I just removed done signal	
 	
 ## Contributing
 
