@@ -131,9 +131,9 @@ $(function() {
          * by the loadFeed function that the content actually changes.
          * Remember, loadFeed() is asynchronous.
          */
-      it("feeds changes" ,function(done){
+      it("feeds changes" ,function(){
         expect(entryOne).not.toBe(entryTwo);
-        done();
+        
      });
         
 
