@@ -10,9 +10,9 @@ These instructions will get you a copy of the project up and running on your loc
 ### External libraries
 
 
-1.[icomoon](https://icomoon.io/)
-2.[jquery](https://jqueryui.com/download/)
-3.[jasmine 3.3.0](https://jasmine.github.io/pages/docs_home.html)
+1. [icomoon](https://icomoon.io/)
+2. [jquery](https://jqueryui.com/download/)
+3. [jasmine 3.3.0](https://jasmine.github.io/pages/docs_home.html)
 
 
 
